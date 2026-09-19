@@ -15,5 +15,5 @@ Engine, tools and systems programmer from Sweden, studying at Futuregames Stockh
 ## Open source
 
 - [BurtTree](https://github.com/StudioMelleder/BurtTree): fast, simple and extendable behaviour tree plugin for Godot Mono
-- [Lizaveta](https://github.com/Edersteiner/Lizaveta): graphical X11 file manager with Vim bindings, in C
+- [Lizaveta](https://github.com/DevGev/Lizaveta) by [DevGev](https://github.com/DevGev): graphical X11 file manager with Vim bindings, in C. I contribute
 - AI coursework in C#: [behaviour trees](https://github.com/Edersteiner/gabriel_eder_ai_lab_4_behaviour_trees), [GOAP](https://github.com/Edersteiner/gabriel-eder-ai-lab-5-goap), [steering](https://github.com/Edersteiner/gabriel_eder_ai_lab_3_steering), [A*](https://github.com/Edersteiner/gabriel_eder_ai_lab_2_astar)
